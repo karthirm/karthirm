@@ -27,13 +27,14 @@ https://karthikeyanrm.hashnode.dev
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthirm&show=java,spring,hibernate,html&theme=radical)](https://github.com/karthirm/github-readme-stats) [![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthirm&theme=radical)](https://github.com/karthirm/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthirm&show=java,spring,hibernate,html&theme=tokyonight) [![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthirm&theme=cobalt)](https://github.com/karthirm/github-readme-stats)
 
 ---
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=karthirm.visitor-badge" alt="Visitors" width="100"/>
 
-<!--
+
+---
 **karthirm/karthirm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -44,6 +45,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
+<a href="https://twitter.com/karthirm" rel="nofollow"><img alt="Twitter Badge" data-canonical-src="https://img.shields.io/badge/-@karthirm-1ca0f1?style=flat&amp;labelColor=1ca0f1&amp;logo=twitter&amp;logoColor=white&amp;link=https://twitter.com/karthirm" style="max-width: 100%;"></a>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+---
