@@ -27,7 +27,7 @@ https://karthikeyanrm.hashnode.dev
 
 ## &#x1f4c8; My GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthirm&show=java,spring,hibernate,html&theme=tokyonight) [![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthirm&theme=cobalt)](https://github.com/karthirm/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthirm&show=java,spring,hibernate,html&theme=tokyonight) [![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthirm&theme=cobalt&hide=issues,contribs)](https://github.com/karthirm/github-readme-stats)
 
 ---
 
