@@ -1,4 +1,3 @@
-### Hi there 👋, I am Karthikeyan RM!
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Karthikeyan RM!
 
 I'm a proficient back-end web application developer in Java & Spring Boot. Professional experience with the technologies that are listed in the toolbox below
@@ -18,6 +17,9 @@ I'm a passionate and motivated backend Developer who can work as a full stack De
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthirm&show=java,spring,hibernate,html&theme=radical)](https://github.com/karthirm/github-readme-stats) [![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthirm&theme=radical)](https://github.com/karthirm/github-readme-stats)
 
+---
+
+<img src="https://visitor-badge.glitch.me/badge?page_id=karthirm.visitor-badge" alt="Visitors" width="100"/>
 
 <!--
 **karthirm/karthirm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
