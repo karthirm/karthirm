@@ -13,6 +13,18 @@ I'm a passionate and motivated backend Developer who can work as a full stack De
 
 ---
 
+📘 Latest Blog Articles
+
+<!-- BLOG-POST-LIST:START -->
+https://karthikeyanrm.hashnode.dev
+<!-- BLOG-POST-LIST:END -->
+
+▶ [...more blog articles](https://karthikeyanrm.hashnode.dev)
+
+---
+
+---
+
 ## &#x1f4c8; My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthirm&show=java,spring,hibernate,html&theme=radical)](https://github.com/karthirm/github-readme-stats) [![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthirm&theme=radical)](https://github.com/karthirm/github-readme-stats)
