@@ -13,7 +13,7 @@ Passionate and motivated backend Developer who can work as a full stack Develope
 <br>
 
 Developer Portfolio webiste
-(https://https://karthikeyan-rm.netlify.app)
+(https://karthikeyan-rm.netlify.app)
 
 ---
 <br> 
