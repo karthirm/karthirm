@@ -15,6 +15,7 @@ Passionate and motivated backend Developer who can work as a full stack Develope
 Developer Portfolio webiste
 (https://https://karthikeyan-rm.netlify.app)
 
+---
 <br> 
 
 - 🔭 I’m currently working at @ FIS Global
@@ -41,10 +42,12 @@ https://karthikeyanrm.hashnode.dev
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://karthikeyanrm.hashnode.dev)
+
 ---
 
 ## &#x1f4c8; My GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthirm&show=java,spring,hibernate,html&theme=tokyonight) [![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthirm&theme=cobalt&hide=issues,contribs)](https://github.com/karthirm/github-readme-stats)
+
 ---
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=karthirm.visitor-badge" alt="Visitors" width="100"/>
