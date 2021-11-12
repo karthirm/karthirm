@@ -3,7 +3,7 @@
 I'm a proficient back-end web application developer in Java & Spring Boot and can work as a full stack Developer if needed by upskilling with Angular being the front-end. Professional experience with the technologies that are listed in the toolbox below
 
 <b>Developer Portfolio website</b>
-https://karthikeyan-rm.netlify.app
+https://karthikeyan-rm.netlify.app 
 
 <g-emoji class="g-emoji" alias="paperclip" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ce.png">📎</g-emoji> <a href="https://github.com/karthirm/karthirm/blob/main/resumes/Karthikeyan-Ramanathan_Resume.pdf">My Resume/CV</a>
 
@@ -11,7 +11,7 @@ https://karthikeyan-rm.netlify.app
 - 🔭 I’m currently working at @ FIS Global
 - 🌱 I’m currently learning Angular and trying to become a full stack dev
 - 👯 I’m looking to collaborate on Java, Spring Boot, Hibernate, Oracle, Docker, Openshift, Kubernetes
-- 🤔 I’m looking for help with getting a <b>new job/opportunity</b>
+- 🤔 <img src="https://img.shields.io/static/v1?label=&message=looking%20for%20a%20new%20job/opportunity&color=green" alt="Looking for a new Job opportunity" width="330"/>
 - 💻 Most used line of code git commit -m "Initial Commit"
 - 💬 Ask me about Java, Spring Boot
 - 📫 How to reach me: <g-emoji class="g-emoji" alias="email" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e7.png">📧</g-emoji> karthirm90@gmail.com
