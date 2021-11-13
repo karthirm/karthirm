@@ -11,11 +11,11 @@ https://karthikeyan-rm.netlify.app
 - 🔭 I’m currently working at @ FIS Global
 - 🌱 I’m currently learning Angular and trying to become a full stack dev
 - 👯 I’m looking to collaborate on Java, Spring Boot, Hibernate, Oracle, Docker, Openshift, Kubernetes
-- 🤔 <img src="https://img.shields.io/static/v1?label=&message=exploring%20new%20challenges&color=green" alt="Looking for a new Job opportunity" width="330"/>
+- 🤔 <img src="https://img.shields.io/static/v1?label=&message=exploring%20new%20challenges&color=green" alt="Looking for a new Job opportunity" width="230"/>
 - 💻 Most used line of code git commit -m "Initial Commit"
 - 💬 Ask me about Java, Spring Boot
 - 📫 How to reach me: <g-emoji class="g-emoji" alias="email" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e7.png">📧</g-emoji> karthirm90@gmail.com
-- 😄 Pronouns: karthirm
+- 😄 Pronouns: karthi
 - ⚡ Fun fact: I'm an avid cricket fan and always try to keep myself fit. 
 ---
 📫 Reach me out!
