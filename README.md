@@ -8,8 +8,8 @@ https://karthikeyan-rm.netlify.app
 <g-emoji class="g-emoji" alias="paperclip" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ce.png">📎</g-emoji> <a href="https://github.com/karthirm/karthirm/blob/main/resumes/Karthikeyan-Ramanathan_Resume.pdf">My Resume/CV</a>
 
 ---
-- 🔭 I’m currently working at @ FIS Global
-- 🌱 I’m currently learning Angular and trying to become a full stack dev
+- 🔭 I’m currently working at @ Societe Generale
+- 🌱 I’m currently learning React and trying to become a full stack dev
 - 👯 I’m looking to collaborate on Java, Spring Boot, Hibernate, Oracle, Docker, Openshift, Kubernetes
 - 🤔 <img src="https://img.shields.io/static/v1?label=&message=exploring%20new%20challenges&color=green" alt="Looking for a new Job opportunity" width="230"/>
 - 💻 Most used line of code git commit -m "Initial Commit"
