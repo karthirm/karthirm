@@ -1,15 +1,15 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Karthikeyan RM!
 
-I'm a proficient back-end web application developer in Java & Spring Boot and can work as a full stack Developer if needed by upskilling with Angular being the front-end. Professional experience with the technologies that are listed in the toolbox below
+I'm a Oracle certified Java backend Developer primarily working in Java & Spring Boot. Professional experience with the technologies that are listed in the toolbox below
 
-<b>Developer Portfolio website</b>
-https://karthikeyan-rm.netlify.app 
+<b>Blogs Link</b>
+[https://karthikeyanrm.hashnode.dev/] 
 
 <g-emoji class="g-emoji" alias="paperclip" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ce.png">📎</g-emoji> <a href="https://github.com/karthirm/karthirm/blob/main/resumes/Karthikeyan-Ramanathan_Resume.pdf">My Resume/CV</a>
 
 ---
 - 🔭 I’m currently working at @ Societe Generale
-- 🌱 I’m currently learning React and trying to become a full stack dev
+- 🌱 I’m currently learning Azure and trying to deploy & scale Spring Boot application into Azure
 - 👯 I’m looking to collaborate on Java, Spring Boot, Hibernate, Oracle, Docker, Openshift, Kubernetes
 - 🤔 <img src="https://img.shields.io/static/v1?label=&message=exploring%20new%20challenges&color=green" alt="Looking for a new Job opportunity" width="230"/>
 - 💻 Most used line of code git commit -m "Initial Commit"
@@ -30,7 +30,7 @@ alt="Netlify logo" widht="50" height="50"/>
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-https://karthikeyanrm.hashnode.dev
+[https://medium.com/@karthirm90]
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://karthikeyanrm.hashnode.dev)
