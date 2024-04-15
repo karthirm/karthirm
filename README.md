@@ -8,8 +8,6 @@ I'm a Oracle certified Java backend Developer primarily working in Java & Spring
 <b>Open Source Contribution</b>
 [https://github.com/Azure-Samples/java-on-azure-examples/pull/469/commits]
 
-<g-emoji class="g-emoji" alias="paperclip" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ce.png">📎</g-emoji> <a href="https://github.com/karthirm/karthirm/blob/main/resumes/Karthikeyan-Ramanathan_Resume.pdf">My Resume/CV</a>
-
 ---
 - 🔭 I’m currently working at @ Societe Generale
 - 🌱 I’m currently learning Azure and trying to deploy & scale Spring Boot application into Azure
