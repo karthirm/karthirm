@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Karthikeyan RM!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm a Oracle certified Java backend Developer primarily working in Java & Spring Boot. Being an Azure certified developer, I'm doing open source contributions on Azure with Java repository. Professional experience with the technologies that are listed in the toolbox below
 
